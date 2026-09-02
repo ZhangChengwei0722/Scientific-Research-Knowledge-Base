@@ -24,7 +24,7 @@ Private Workspace
 
 Core 本身不调用 LLM、不作科研判断，也不包含任何真实论文或私有知识库内容。
 这是已经公开的 Core 基础设施仓库，不是完整的 GUI 产品。面向普通用户的产品入口由
-`research-kb-app` 承担：App `0.1.1b2` 已作为 Windows-only public beta 发布到其公共
+[`research-kb-app`](https://github.com/ZhangChengwei0722/research-kb-app) 承担：App `0.1.1b2` 已作为 Windows-only public beta 发布到其公共
 GitHub Releases 与 PyPI；Core `0.1.1` 已发布到本仓库 GitHub Releases 与 PyPI。
 Core 与 App 当前进入 joint-release observation，repository topology review 需积累
 2-3 个联合发布版本后再进行。
